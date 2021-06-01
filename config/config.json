@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "peje86",
+    "password": "peje1234",
+    "database": "expressjwt",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "peje86",
+    "password": "peje1234",
+    "database": "expressjwt_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "peje86",
+    "password": "peje1234",
+    "database": "expressjwt_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
